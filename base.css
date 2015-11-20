@@ -1182,3 +1182,15 @@ hr {
 .line-height-sm {
   line-height: 1.7;
 }
+.rm-l-m{
+  margin-left: -10px;
+}
+.rm-l-p{
+  padding-left: 0;
+}
+.rm-r-m{
+  margin-right: -10px;
+}
+.rm-r-p{
+  padding-right: 0;
+}
