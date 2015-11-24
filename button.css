@@ -92,16 +92,17 @@
 }
 .btn-gray{
 	background-color: transparent;
-	color:#cdcdcd;
-	border-color: #cdcdcd;
+	color:#666;
+	border-color: #999;
 }
 .btn-gray:hover{
 	background-color: transparent;
-	color:#e6501e;
-	border-color: #e6501e;
+	color:#414141;
+	border-color: #666;
 }
 .btn-gray:active{
-	background-color: #f0a082;        
+	border-color: #666;
+	background-color: transparent;        
 }
 .btn-white{
 	background-color: transparent;
