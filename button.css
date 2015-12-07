@@ -18,6 +18,9 @@
 	background-color: #f0916e;
 	border-color:#e67855;
 }
+.btn:focus{
+	outline: none;
+}
 .btn-org-full{
 	color:#fff;
 	background-color:#e6501e;
