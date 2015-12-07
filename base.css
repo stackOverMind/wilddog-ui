@@ -23,7 +23,7 @@
 html {
     font-size: 10px;
     height: 100%;
-    font-family: arial, syht, "Microsoft Yahei", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
+    font-family:  NotoSansHans-Regular, AvenirNext-Regular,  "Microsoft Yahei", "Hiragino Sans GB", "WenQuanYi Micro Hei", arial,sans-serif;
     letter-spacing: 2px;
     -webkit-font-smoothing: antialiased;
     -ms-text-size-adjust: 100%;
@@ -1259,8 +1259,4 @@ a {
 
 .fzlt {
     font-family: fzltxh
-}
-
-.syht {
-    font-family: syht
 }
