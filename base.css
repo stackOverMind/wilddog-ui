@@ -23,7 +23,7 @@
 html {
     font-size: 10px;
     height: 100%;
-    font-family: NotoSansHans-Regular, AvenirNext-Regular, arial, "Microsoft Yahei", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
+    font-family: fzltxh, NotoSansHans-Regular, AvenirNext-Regular, arial, "Microsoft Yahei", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
     letter-spacing: 2px;
     -webkit-font-smoothing: antialiased;
     -ms-text-size-adjust: 100%;
