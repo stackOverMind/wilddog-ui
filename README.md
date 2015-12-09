@@ -3,11 +3,11 @@ wilddog 前端设计，ui规范
 
 ## Grid 系统
 
-16格，槽宽20px
+12格，槽宽20px
 
 媒体查询
 
-|<480| 480-767 |768-979 | 980-1300 | 1300- |
+|<480| 480-767 |768-979 | 980- |
 
 
 ## 字体字号
@@ -48,4 +48,8 @@ wilddog 前端设计，ui规范
 * btn-white
 * btn-disabled
  
+#### 文字排列
 
+* text-left
+* text-center
+* text-right
