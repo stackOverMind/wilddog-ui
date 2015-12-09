@@ -10,14 +10,6 @@
 	background-color:#e6501e;
 	border:1px solid #cd461e;
 }
-.btn:hover{
-	background-color: #eb734b;
-	border-color: #dc5528;
-}
-.btn:active{
-	background-color: #f0916e;
-	border-color:#e67855;
-}
 .btn:focus{
 	outline: none;
 }
@@ -132,4 +124,15 @@
 .btn-disabled:active{
 	background-color: transparent;
 	border-color: #cdcdcd;
+}
+.btn-gold-empty{
+	border-color:#ebaf55;
+	background-color: transparent;
+	color:#ebbe7d;
+}
+.btn-gold-empty:hover{
+	background-color: rgba(240, 210, 170,0.2);
+}
+.btn-gold-empty:active{
+	background-color: rgba(240, 210, 170,0.4);
 }
