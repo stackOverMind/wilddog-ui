@@ -4,19 +4,16 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
-
 /*!
  * Generated using the Bootstrap Customizer (http://v3.bootcss.com/customize/?id=b9e44ca8886c1a452485)
  * Config saved to config.json and https://gist.github.com/b9e44ca8886c1a452485
  */
-
 
 /*!
  * Bootstrap v3.3.5 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
-
 
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
@@ -280,24 +277,6 @@ img {
 
 .img-responsive {
     display: block;
-    max-width: 100%;
-    height: auto;
-}
-
-.img-rounded {
-    border-radius: 6px;
-}
-
-.img-thumbnail {
-    padding: 4px;
-    line-height: 1.42857143;
-    background-color: #ffffff;
-    border: 1px solid #dddddd;
-    border-radius: 4px;
-    -webkit-transition: all 0.2s ease-in-out;
-    -o-transition: all 0.2s ease-in-out;
-    transition: all 0.2s ease-in-out;
-    display: inline-block;
     max-width: 100%;
     height: auto;
 }

@@ -53,3 +53,25 @@ wilddog 前端设计，ui规范
 * text-left
 * text-center
 * text-right
+
+#### 清除边距
+
+* rm-l-m / rm-r-m 清除左/右 margin
+* rm-l-p / rm-r-p 清除左/右 padding
+
+#### 显示隐藏
+
+* hide display:none
+* show display:block
+
+#### 浮动
+
+* pull-left 左浮动
+* pull-right 右浮动
+* clearfix 清除内部浮动
+
+#### 图片
+
+* 图片默认的样式为垂直居中
+* img-circle 圆角图片
+* img-responsive 最大宽度100%
