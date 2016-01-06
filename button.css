@@ -143,8 +143,8 @@
 	color:#ffffff;
 }
 .btn-yellow-full:hover{
-	background-color: rgba(230, 150, 40,0.5);
+	background-color: #e69628;
 }
 .btn-yellow-full:active{
-	background-color: rgba(230, 150, 40,0.3);
+	background-color: #e69628;
 }
