@@ -138,12 +138,13 @@
 }
 
 .btn-yellow-full{
-	border-color:2px solid #e69628;
+	border:1px solid #ebaf55;
 	background-color: #ebaf55;
 	color:#ffffff;
 }
 .btn-yellow-full:hover{
 	background-color: #e69628;
+	border:1px solid #e69628;
 }
 .btn-yellow-full:active{
 	background-color: #e69628;
