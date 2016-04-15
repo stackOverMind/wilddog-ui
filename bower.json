@@ -1,0 +1,17 @@
+{
+  "name": "wilddog-ui",
+  "version": "0.0.0",
+  "homepage": "https://github.com/stackOverMind/wilddog-ui",
+  "authors": [
+    "xiaoguangyu <xiaoguangyu@wilddog.com>"
+  ],
+  "description": "wilddog web ui",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
